@@ -1,8 +1,6 @@
 html {
 	scroll-snap-type: y mandatory;
-
 }
-
 
 .app {
 	height: 100vh;
@@ -29,9 +27,4 @@ html {
 .container {
 	-ms-overflow-style: none; /* IE and Edge */
 	scrollbar-width: none; /* Firefox */
-}
-
-.video {
-    position: relative;
-    scroll-snap-align: start;
 }
